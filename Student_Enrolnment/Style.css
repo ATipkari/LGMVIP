@@ -1,0 +1,52 @@
+body{
+    background-color:white;
+}
+
+
+.Container{
+
+   float: left;
+    width: 49%;
+    height: 50%;
+    border:2px black solid;
+    margin-left: 50px;
+    padding-left: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.D1{
+   float: left;
+    width: 25%;
+   
+   
+}
+.Img{
+    height: 100px;
+    width: 100px;
+    float: right;
+}
+h1{
+    color:red ;
+    
+}
+input{
+    margin-top: 20px;
+    margin-left: 20px;
+    border: none;
+    border-radius: 3px;
+   border-bottom: 2px black solid;
+}
+input::-moz-focus-inner{
+    background-color: skyblue;
+}
+.self{
+    float: center;
+}
+button{
+    border-radius: 4px;
+    
+}
+button:hover{
+   
+   background-color: rgb(93, 206, 247);
+}
